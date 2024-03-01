@@ -1,0 +1,4 @@
+# O navegador faz o papel de tradutor, traduzindo o código HTML feito pelo programador e mostrando visualmente uma página para o usuário final;
+# Visualizar código fonte: clicar botão direito -> exibir código fonte (ctrl + U);
+# Inspencionar a página: clicar botão direito -> Inspencionar -> clicar na setinha (para inspencionar os elementos que desejar);
+# No HTML criamos a parte estrutural de um site, já o CSS cuida do estilo dessa estrutura.

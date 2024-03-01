@@ -1,0 +1,2 @@
+# Editor de código fonte. Pode ser um bloco de notas, mas o mais indicado é o Visual Studio Code. Outras opções: Sublime Text, ATOM, Vim, etc
+# Além de um editor de código-fonte, como o Visual Studio Code, qual outro software precisarei para desenvolver os meus códigos HTML? Um navegador de internet (Chrome, Opera, Firefox).
