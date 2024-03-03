@@ -1,0 +1,18 @@
+img{
+    width: 300px;
+}
+#titulo{
+    color: green
+}
+.texto{
+    color: red;
+}
+
+#titulo, 
+.texto {
+    font-size: 25px;
+}
+
+ol li{
+    color: pink;
+}
